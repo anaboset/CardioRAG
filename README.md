@@ -9,7 +9,7 @@
 
 ## Overview
 
-**`CardioRAG`** is a **Retrieval-Augmented Generation (RAG)** system that turns **PDF textbook on cardiovascular pharmacotherapy** into an **interactive AI assistant** for:
+**CardioRAG** is a **Retrieval-Augmented Generation (RAG)** system that turns **PDF textbook on cardiovascular pharmacotherapy** into an **interactive AI assistant** for:
 
 - **Diagnosis support**  
 - **Treatment recommendations**  
