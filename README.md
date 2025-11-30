@@ -3,13 +3,13 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)  
 ![Status: Production-Ready](https://img.shields.io/badge/status-production--ready-success)
 
-**Ask clinical questions. Get evidence-based answers from your 400-page cardiovascular pharmacotherapy textbook.**
+**Ask clinical questions. Get evidence-based answers from cardiovascular pharmacotherapy textbook.**
 
 ---
 
 ## Overview
 
-`CardioRAG` is a **Retrieval-Augmented Generation (RAG)** system that turns your **PDF textbook on cardiovascular pharmacotherapy** into an **interactive AI assistant** for:
+**`CardioRAG`** is a **Retrieval-Augmented Generation (RAG)** system that turns **PDF textbook on cardiovascular pharmacotherapy** into an **interactive AI assistant** for:
 
 - **Diagnosis support**  
 - **Treatment recommendations**  

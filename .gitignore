@@ -29,9 +29,6 @@ wheels/
 *.egg
 MANIFEST
 
-# ChromaDB
-chroma_db/
-
 # IDE
 .vscode/
 .idea/
