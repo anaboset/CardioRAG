@@ -1,0 +1,33 @@
+# CardioRAG: Cardiovascular Pharmacotherapy Assistant
+# Compatible with Python 3.9+ | Tested on Nov 16, 2025
+
+# Core RAG & LLM
+chromadb==0.5.3
+sentence-transformers==3.0.1
+langchain==0.3.0
+langchain-core==0.3.0
+langchain-community==0.3.0
+langchain-text-splitters==0.3.0
+
+# LLM Providers (choose one — all compatible)
+langchain-openai==0.2.0
+langchain-groq==0.1.0
+langchain-google-genai==1.0.10
+
+# PDF Processing
+pymupdf==1.24.10  # fitz
+
+# Web UI
+streamlit==1.38.0
+
+# Environment & Utilities
+python-dotenv==1.0.1
+
+# Semantic Chunking Dependencies
+nltk==3.9.1
+scikit-learn==1.5.2
+numpy==1.26.4
+
+# Optional: For advanced embedding control
+torch==2.3.1
+transformers==4.44.2
